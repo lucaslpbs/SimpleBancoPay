@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\bin\Debug\net7.0\BancoPay.exe
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\bin\Debug\net7.0\BancoPay.deps.json
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\bin\Debug\net7.0\BancoPay.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\bin\Debug\net7.0\BancoPay.dll
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\bin\Debug\net7.0\BancoPay.pdb
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.dll
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\refint\BancoPay.dll
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.pdb
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\BancoPay.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Cursos\LUCAS\BancoPay\obj\Debug\net7.0\ref\BancoPay.dll
